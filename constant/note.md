@@ -59,3 +59,5 @@
 
 1. #define 是常量预处理
 2. 使用const关键字
+
+const type variable = value;
