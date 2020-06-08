@@ -62,4 +62,4 @@
 
 const type variable = value;
 
-
+把常量定义为大写字母 是一个很好的编程实践
